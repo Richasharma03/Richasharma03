@@ -1,4 +1,4 @@
-! [logo] (https://github.com/Richasharma03/Richasharma03/blob/main/Your%20paragraph%20text.png)
+![logo](https://github.com/Richasharma03/Richasharma03/blob/main/Your%20paragraph%20text.png)
 <h1 align="center">Hi there ,I am Richa Sharma</h1>
 <h3 align="center">A passionate web developer.</h3>
 
